@@ -1,0 +1,42 @@
+/* font-family: "IM Fell Great Primer SC", serif;
+font-family: "News Cycle", sans-serif;
+font-family: "Playfair Display", serif; 
+
+*/
+
+* {
+   font-family: "News Cycle", sans-serif;
+}
+
+.logo {
+   display: block;
+   width: 10%;
+   height: auto;
+}
+
+.center {
+   text-align: center;
+   color: white;
+   /* padding: 10% 0; */
+}
+
+.center > div > h1 {
+   font-family: "Playfair Display", serif;
+   font-weight: 700;
+   font-size: 5rem;
+}
+
+.center > div > p {
+   font-family: "IM Fell Great Primer SC", serif;
+   font-weight: 300;
+   font-size: 3rem;
+}
+
+.btn {
+   font-family: "News Cycle", sans-serif;
+   border-width: 0.3rem;
+   border-color: rgb(231, 214, 190);
+   border-radius: 1rem;
+   background-color: rgba(0, 0, 0, 5);
+   font-weight: 600;
+}
