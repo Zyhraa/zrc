@@ -20,23 +20,27 @@ font-family: "Playfair Display", serif;
    /* padding: 10% 0; */
 }
 
-.center > div > h1 {
+div > h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
-   font-size: 5rem;
+   font-size: 4vw;
 }
 
-.center > div > p {
+div > p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
-   font-size: 3rem;
+   font-size: 2vw;
 }
 
 .btn {
-   font-family: "News Cycle", sans-serif;
    border-width: 0.3rem;
    border-color: rgb(231, 214, 190);
    border-radius: 1rem;
    background-color: rgba(0, 0, 0, 5);
    font-weight: 600;
+}
+
+footer {
+   position: fixed;
+   color: white;
 }
