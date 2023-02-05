@@ -54,3 +54,16 @@ div>p {
 .navbar .navbar-collapse {
    text-align: center;
 }
+
+
+/* <-------ini foorter inder-------> */
+.alamat p {
+   margin: 0;
+   padding: 0;
+}
+
+.alamat {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
