@@ -51,6 +51,13 @@ footer {
 /* <-------batas header------> */
 .navbar {
    font-family: "Playfair Display", serif;
-   /* background-color: #5C5024; */
    font-weight: 900;
+}
+
+.navbar .navbar-collapse {
+   text-align: center;
+}
+
+li > a {
+   color: #d8ba55;
 }
