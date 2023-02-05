@@ -1,4 +1,5 @@
 /* 
+foto background 9:19
 font-family: "IM Fell Great Primer SC", serif;
 font-family: "News Cycle", sans-serif;
 font-family: "Playfair Display", serif;
@@ -20,25 +21,29 @@ font-family: "Playfair Display", serif;
    /* padding: 10% 0; */
 }
 
-div > h1 {
+div>h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div > p {
+div>p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
    font-size: 2vw;
 }
 
 .btnku {
-   border-width: 0.2rem;
+   border: 2px solid;
    border-color: rgb(231, 214, 190);
    border-radius: 1rem;
    background-color: rgba(0, 0, 0, 0.6);
    font-weight: 600;
    color: white;
+}
+
+a {
+   text-decoration: none;
 }
 
 /* <-------batas index-------> */
@@ -53,4 +58,27 @@ div > p {
 
 .navbar .navbar-collapse {
    text-align: center;
+}
+
+a {
+   font-size: 1.25vw;
+   font-style: "News Cycle", sans-serif;
+   font-weight: 600;
+}
+
+/* <-------ini foorter inder-------> */
+.alamat p {
+   margin: 0;
+   padding: 0;
+   font-size: 1.5vw;
+}
+
+.alamat i {
+   font-size: 2vw;
+}
+
+.alamat {
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
