@@ -1,9 +1,9 @@
 /* font-family: "IM Fell Great Primer SC", serif;
 font-family: "News Cycle", sans-serif;
-font-family: "Playfair Display", serif; 
+
 
 */
-
+/* <-------batas index-------> */
 * {
    font-family: "News Cycle", sans-serif;
    color: white;
@@ -32,7 +32,7 @@ div > p {
    font-size: 2vw;
 }
 
-.btn {
+a > .btn {
    border-width: 0.3rem;
    border-color: rgb(231, 214, 190);
    border-radius: 1rem;
@@ -42,4 +42,17 @@ div > p {
 
 footer {
    position: fixed;
+}
+
+/* <-------batas index-------> */
+
+/* <-------------------------> */
+
+/* <-------batas header------> */
+nav {
+   font-family: "Playfair Display", serif;
+}
+
+a > img {
+   size: 1vw;
 }
