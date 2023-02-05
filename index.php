@@ -36,21 +36,18 @@
 
     <footer class="">
         <div class="d-flex flex-row fs-4">
-            <div class=" me-2">
-                <i class="fas fa-map-marker-alt">
-                    <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
-                        M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
-                </i>
+            <div class=" me-2 d-flex">
+                <i class="fas fa-map-marker-alt"></i>
+                <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
+                    M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
             </div>
-            <div class="me-2">
-                <i class="fas fa-envelope">
-                    <p>zadderoyalcrown@gmail.com</p>
-                </i>
+            <div class="me-2 d-flex">
+                <i class="fas fa-envelope"></i>
+                <p>zadderoyalcrown@gmail.com</p>
             </div>
-            <div class="me-2">
-                <i class="fas fa-phone-alt">
-                    <p>0811336951</p>
-                </i>
+            <div class="me-2 d-flex">
+                <i class="fas fa-phone-alt"></i>
+                <p>0811336951</p>
             </div>
         </div>
     </footer>
