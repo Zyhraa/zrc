@@ -1,11 +1,11 @@
-/* font-family: "IM Fell Great Primer SC", serif;
+/* 
+font-family: "IM Fell Great Primer SC", serif;
 font-family: "News Cycle", sans-serif;
-
-
+font-family: "Playfair Display", serif;
 */
+
 /* <-------batas index-------> */
 * {
-   font-family: "News Cycle", sans-serif;
    color: white;
 }
 
@@ -49,10 +49,8 @@ footer {
 /* <-------------------------> */
 
 /* <-------batas header------> */
-nav {
+.navbar {
    font-family: "Playfair Display", serif;
-}
-
-a > img {
-   size: 1vw;
+   /* background-color: #5C5024; */
+   font-weight: 900;
 }
