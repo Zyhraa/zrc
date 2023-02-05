@@ -51,16 +51,10 @@ div>p {
    font-weight: 900;
 }
 
-<<<<<<< HEAD
-a>img {
-   size: 1vw;
-}
-=======
 .navbar .navbar-collapse {
    text-align: center;
 }
 
-li > a {
+li>a {
    color: #d8ba55;
 }
->>>>>>> 8a3a2b1b28d59eb99a1e699ff45cef5695586e88

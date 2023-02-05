@@ -35,25 +35,19 @@
     </div>
 
     <div class="container fixed-bottom mb-3">
-        <div class="row justify-content-md-center">
-            <div class="col-6">
-                <div class="d-flex align-items-center">
-                    <i class="fas fa-map-marker-alt"></i>
-                    <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
-                        M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
-                </div>
+        <div class="alamat">
+            <div class="alamat jln">
+                <i class="fas fa-map-marker-alt"></i>
+                <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
+                    M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
             </div>
-            <div class="col-4 h-100">
-                <div class="d-flex align-items-center">
-                    <i class="fas fa-envelope"></i>
-                    <p>zadderoyalcrown@gmail.com</p>
-                </div>
+            <div class="alamat mail">
+                <i class="fas fa-envelope"></i>
+                <p>zadderoyalcrown@gmail.com</p>
             </div>
-            <div class="col">
-                <div class="d-flex align-items-center">
-                    <i class="fas fa-phone-alt"></i>
-                    <p>0811336951</p>
-                </div>
+            <div class="alamat tlp">
+                <i class="fas fa-phone-alt"></i>
+                <p>0811336951</p>
             </div>
         </div>
     </div>
