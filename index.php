@@ -25,28 +25,28 @@
         </div>
         <div class="container">
             <div class="column center p-5 m-5">
-                <div>
+                <div class="mb-5">
                     <h1>ZADDE ROYAL CROWN</h1>
                     <p>Your Journey Starts Here</p>
                 </div>
-                <a class="btn mt-5 px-5 py-2 btnku" href="home.php">About Us</a>
+                <a class="mt-5 px-5 py-3 btnku" href="home.php">About Us</a>
             </div>
         </div>
     </div>
 
     <div class="container fixed-bottom mb-3">
-        <div class="alamat">
-            <div class="alamat jln">
-                <i class="fas fa-map-marker-alt"></i>
+        <div class="row justify-content-md-center">
+            <div class="col col-lg-6 alamat">
+                <i class="fas fa-map-marker-alt me-3"></i>
                 <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
                     M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
             </div>
-            <div class="alamat mail">
-                <i class="fas fa-envelope"></i>
+            <div class="col col-4 alamat">
+                <i class="fas fa-envelope me-3"></i>
                 <p>zadderoyalcrown@gmail.com</p>
             </div>
-            <div class="alamat tlp">
-                <i class="fas fa-phone-alt"></i>
+            <div class="col col-lg-2 alamat">
+                <i class="fas fa-phone-alt me-3"></i>
                 <p>0811336951</p>
             </div>
         </div>
