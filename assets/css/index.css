@@ -20,28 +20,25 @@ font-family: "News Cycle", sans-serif;
    /* padding: 10% 0; */
 }
 
-div > h1 {
+div>h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div > p {
+div>p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
    font-size: 2vw;
 }
 
-a > .btn {
-   border-width: 0.3rem;
+.btnku {
+   border-width: 0.2rem;
    border-color: rgb(231, 214, 190);
    border-radius: 1rem;
-   background-color: rgba(0, 0, 0, 5);
+   background-color: rgba(0, 0, 0, 0.6);
    font-weight: 600;
-}
-
-footer {
-   position: fixed;
+   color: white;
 }
 
 /* <-------batas index-------> */
@@ -53,6 +50,6 @@ nav {
    font-family: "Playfair Display", serif;
 }
 
-a > img {
+a>img {
    size: 1vw;
 }

@@ -24,33 +24,40 @@
             </div>
         </div>
         <div class="container">
-            <div class="collumn center p-5 m-5">
+            <div class="column center p-5 m-5">
                 <div>
                     <h1>ZADDE ROYAL CROWN</h1>
                     <p>Your Journey Starts Here</p>
                 </div>
-                <a class="btn mt-5 px-5 py-3" href="home.php">About Us</a>
+                <a class="btn mt-5 px-5 py-2 btnku" href="home.php">About Us</a>
             </div>
         </div>
     </div>
 
-    <footer class="">
-        <div class="d-flex flex-row fs-4">
-            <div class=" me-2 d-flex">
-                <i class="fas fa-map-marker-alt"></i>
-                <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
-                    M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
+    <div class="container fixed-bottom mb-3">
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <div class="d-flex align-items-center">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
+                        M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
+                </div>
             </div>
-            <div class="me-2 d-flex">
-                <i class="fas fa-envelope"></i>
-                <p>zadderoyalcrown@gmail.com</p>
+            <div class="col-4 h-100">
+                <div class="d-flex align-items-center">
+                    <i class="fas fa-envelope"></i>
+                    <p>zadderoyalcrown@gmail.com</p>
+                </div>
             </div>
-            <div class="me-2 d-flex">
-                <i class="fas fa-phone-alt"></i>
-                <p>0811336951</p>
+            <div class="col">
+                <div class="d-flex align-items-center">
+                    <i class="fas fa-phone-alt"></i>
+                    <p>0811336951</p>
+                </div>
             </div>
         </div>
-    </footer>
+    </div>
+
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
