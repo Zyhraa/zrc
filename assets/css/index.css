@@ -20,13 +20,13 @@ font-family: "Playfair Display", serif;
    /* padding: 10% 0; */
 }
 
-div>h1 {
+div > h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div>p {
+div > p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
    font-size: 2vw;
@@ -51,16 +51,6 @@ div>p {
    font-weight: 900;
 }
 
-<<<<<<< HEAD
-a>img {
-   size: 1vw;
-}
-=======
 .navbar .navbar-collapse {
    text-align: center;
 }
-
-li > a {
-   color: #d8ba55;
-}
->>>>>>> 8a3a2b1b28d59eb99a1e699ff45cef5695586e88
