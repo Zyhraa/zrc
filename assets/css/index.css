@@ -6,6 +6,7 @@ font-family: "Playfair Display", serif;
 
 * {
    font-family: "News Cycle", sans-serif;
+   color: white;
 }
 
 .logo {
@@ -16,7 +17,6 @@ font-family: "Playfair Display", serif;
 
 .center {
    text-align: center;
-   color: white;
    /* padding: 10% 0; */
 }
 
@@ -42,5 +42,4 @@ div > p {
 
 footer {
    position: fixed;
-   color: white;
 }
