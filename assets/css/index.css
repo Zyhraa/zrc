@@ -39,6 +39,11 @@ div > p {
    font-weight: 600;
 }
 
+@media (min-width: 768px) {
+   .test {
+      background-image: url("../images/home.jpg");
+   }
+}
 /* <-------batas index-------> */
 
 /* <-------ini footer index-------> */

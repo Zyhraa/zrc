@@ -16,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/index.css">
 </head>
 
-<body class="bg-image" style="background-image: url('assets/images/splashh.png') ; background-size: cover; background-repeat: no-repeat;">
+<body class="img-fluid test" style="background-image: url('assets/images/splashh.png') ; background-size: cover; background-repeat: no-repeat;">
     <div class=" container-fluid">
         <div class="row">
             <div class="col-12 my-3">
