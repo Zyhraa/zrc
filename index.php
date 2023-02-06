@@ -29,9 +29,10 @@
                     <h1>ZADDE ROYAL CROWN</h1>
                     <p>Your Journey Starts Here</p>
                 </div>
-                <div class="px-5 py-3 btnku">
-                    <a class="mt-5 btna text-decoration-none" style="color:white;" href="home.php">About Us</a>
-                </div>
+                <a class="mt-5 btna text-decoration-none" style="color:white;" href="home.php">
+                    <div class="offset-5 col-2 px-5 py-3 btnku">About Us</div>
+                </a>
+
             </div>
         </div>
     </div>
