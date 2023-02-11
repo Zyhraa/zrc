@@ -1,13 +1,7 @@
-.bg {
-   background-image: url("images/visibg.png"), url("images/lines.png");
-   background-position: center, center;
-   background-size: cover;
-   background-repeat: no-repeat;
-}
-
 .vmm {
    justify-content: center;
 }
+
 .vm {
    align-items: center;
    text-align: center;
@@ -16,7 +10,7 @@
 .vm > h1 {
    font-family: "Playfair Display", serif;
    color: white;
-   font-size: 4vw;
+   font-size: 60px;
    font-weight: 800;
    margin-top: 3%;
 }
@@ -24,7 +18,7 @@
 .vm > p {
    font-family: "News Cycle", sans-serif;
    color: #d8ba55;
-   font-size: 2vw;
+   font-size: 30px;
    font-weight: 400;
    margin: 0 5% 10% 5%;
 }
