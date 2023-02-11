@@ -1,7 +1,7 @@
 <?php include 'assets/header.php' ?>
 <link rel="stylesheet" type="text/css" href="assets/css/home.css">
 
-<div class="bg-image test" style="background-image: url('assets/images/home.png'); background-size: cover;  background-repeat:no-repeat;">
+<div class="bg-image test" style="background-image: url('assets/images/home1.png'), url('assets/images/home2.png'); background-size: cover;  background-repeat:no-repeat;">
    <div class="intro d-flex flex-column">
       <img src="assets/images/logogold.png" alt="">
       <p>PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
