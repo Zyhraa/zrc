@@ -1,3 +1,21 @@
-.test {
-   background-color: red;
+.ourservice {
+   width: auto;
+}
+
+.hex {
+   width: 200px;
+   height: 230px;
+   clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
+   background: deeppink;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   cursor: pointer;
+   transition: .5s;
+   margin: 0 10px;
+}
+
+.hex:hover {
+   transform: scale(0.8);
 }
