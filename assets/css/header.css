@@ -4,6 +4,10 @@
    font-weight: 900;
 }
 
+.ukuran {
+   height: 60vh;
+}
+
 .navbar .navbar-collapse {
    text-align: center;
 }
