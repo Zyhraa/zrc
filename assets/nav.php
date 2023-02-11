@@ -11,7 +11,7 @@
                     <a class="nav-link" href="#" style="color: white;">HOME</a>
                 </li>
                 <li class="nav-item mx-5">
-                    <a class="nav-link" href="#" style="color: white;">VISI & MISI</a>
+                    <a class="nav-link" href="visimisi.php" style="color: white;">VISI & MISI</a>
                 </li>
                 <li class="nav-item mx-5">
                     <a class="nav-link" href="#" style="color: white;">TEAM</a>
