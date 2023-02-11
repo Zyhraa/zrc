@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="assets/css/header.css">
+
 <nav class="navbar navbar-expand-lg fs-3" style="background-color: #5C5024;">
     <div class=" container-fluid">
         <a class="navbar-brand" href="#"><img class="imgnav" src="assets/images/smallogo.png" style="width: 50px;" alt="logo"></a>
