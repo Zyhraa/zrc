@@ -19,3 +19,11 @@
 .hex:hover {
    transform: scale(0.8);
 }
+
+.top1 {
+   margin-left: 120px;
+}
+
+.top2 {
+   margin-top: -40px;
+}

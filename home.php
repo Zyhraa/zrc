@@ -12,13 +12,16 @@
       </div>
       <div class="jasa">
          <h1>Our Services</h1>
-         <div class="list d-flex flex-row ourservice">
-            <div class="hex">ok</div>
-            <div class="hex">ok</div>
-            <div class="hex">ok</div>
-            <div class="hex">ok</div>
-            <div class="hex">ok</div>
-            <div class="hex">ok</div>
+         <div class="offset-3 col-6">
+            <div class="d-flex flex-wrap">
+               <div class="hex top1">ok</div>
+               <div class="hex">ok</div>
+               <div class="hex top2">ok</div>
+               <div class="hex top2">ok</div>
+               <div class="hex top2">ok</div>
+               <div class="hex top1 top2">ok</div>
+               <div class="hex top2">ok</div>
+            </div>
          </div>
          <div class="whyus">
             <h1>Kenapa pilih kami?</h1>
