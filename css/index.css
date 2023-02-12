@@ -29,13 +29,13 @@ font-family: "Playfair Display", serif;
    align-items: center;
 }
 
-div>h1 {
+div > h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div>p {
+div > p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
    font-size: 2vw;
@@ -53,6 +53,7 @@ div>p {
 .center2 {
    display: flex;
    justify-content: space-between;
+   margin-bottom: 3vh;
 }
 
 @media (min-width: 768px) {
