@@ -19,7 +19,7 @@
                   <a class="nav-link" href="visimisi.php" style="color: white;">VISI & MISI</a>
                </li>
                <li class="nav-item mx-5">
-                  <a class="nav-link" href="#" style="color: white;">TEAM</a>
+                  <a class="nav-link" href="team.php" style="color: white;">TEAM</a>
                </li>
             </ul>
             </ul>
