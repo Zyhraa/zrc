@@ -4,12 +4,8 @@
    font-weight: 900;
 }
 
-.ukuran {
-   height: 50vh;
-}
-
 nav {
-   background-color: #5C5024;
+   background-color: #5c5024;
 }
 
 .navbar .navbar-collapse {
@@ -17,7 +13,6 @@ nav {
 }
 
 a {
-   font-size: 1.25vw;
    font-style: "News Cycle", sans-serif;
    font-weight: 600;
 }
