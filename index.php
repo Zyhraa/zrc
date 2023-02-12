@@ -12,10 +12,13 @@ include 'assets/header.php';
         <div class="center1">
             <h1>ZADDE ROYAL CROWN</h1>
             <p>Your Journey Starts Here</p>
+            &nbsp;
             <a class="btna text-decoration-none" style="color:white;" href="home.php">
                 <div class="py-lg-3 btnku center1">About Us</div>
             </a>
         </div>
+
+        <div>&nbsp;</div>
 
         <div class="center2">
             <div class="col col-6 alamat">

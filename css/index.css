@@ -118,8 +118,59 @@ div>p {
    }
 }
 
-@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 600px) {
+   .logo {
+      display: block;
+      width: 25%;
+   }
 
-@media only screen and (min-width: 768px) {}
+   div>h1 {
+      font-size: 6vw;
+   }
 
-@media only screen and (min-width: 1200px) {}
+   div>p {
+      font-size: 3vw;
+   }
+
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 150px;
+      padding: 10px 0px;
+   }
+}
+
+@media only screen and (min-width: 768px) {
+   .logo {
+      display: block;
+      width: 20%;
+   }
+
+   div>h1 {
+      font-size: 4vw;
+   }
+
+   div>p {
+      font-size: 2vw;
+   }
+
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 200px;
+   }
+}
+
+@media only screen and (min-width: 1200px) {
+   .logo {
+      display: block;
+      width: 15%;
+   }
+
+}
