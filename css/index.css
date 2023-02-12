@@ -3,6 +3,11 @@ foto background 9:19
 font-family: "IM Fell Great Primer SC", serif;
 font-family: "News Cycle", sans-serif;
 font-family: "Playfair Display", serif;
+
+@media only screen and (max-width: 600px) {}
+@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1200px) {}
 */
 
 * {
@@ -35,6 +40,7 @@ body {
    align-items: center;
 }
 
+/* text zadde royal */
 div>h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
@@ -47,6 +53,7 @@ div>p {
    font-size: 2vw;
 }
 
+/* tombol */
 .btnku {
    border: 2px solid;
    border-color: rgb(231, 214, 190);
@@ -62,11 +69,7 @@ div>p {
    margin-bottom: 3vh;
 }
 
-@media (min-width: 768px) {
-   .test {
-      background-image: url("../images/home.jpg");
-   }
-}
+
 
 /* <-------batas index-------> */
 
@@ -86,3 +89,37 @@ div>p {
    align-items: center;
    justify-content: center;
 }
+
+
+/* media query */
+/* handphone */
+@media only screen and (max-width: 600px) {
+   .logo {
+      display: block;
+      width: 30%;
+   }
+
+   div>h1 {
+      font-size: 7vw;
+   }
+
+   div>p {
+      font-size: 4vw;
+   }
+
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 150px;
+      padding: 10px 0px;
+   }
+}
+
+@media only screen and (min-width: 600px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 1200px) {}

@@ -13,7 +13,7 @@ include 'assets/header.php';
             <h1>ZADDE ROYAL CROWN</h1>
             <p>Your Journey Starts Here</p>
             <a class="btna text-decoration-none" style="color:white;" href="home.php">
-                <div class="py-3 btnku center1">About Us</div>
+                <div class="py-lg-3 btnku center1">About Us</div>
             </a>
         </div>
 
