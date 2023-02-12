@@ -1,4 +1,4 @@
-<div style="background-color: #5C5024; color:white">
+<div style="background-color: #5C5024; color:white; height:20vh">
     <div class="container d-flex align-items-center pt-2">
         <div class="col ms-3 col-5 alamat">
             <div class="d-flex col-8 align-items-center">
