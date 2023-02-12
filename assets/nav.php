@@ -1,3 +1,4 @@
+<?php include 'header.php' ?>
 <link rel="stylesheet" type="text/css" href="css/nav.css">
 
 <nav class="navbar navbar-expand-lg fs-3" style="background-color: #5C5024;">

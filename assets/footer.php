@@ -1,7 +1,7 @@
 <div style="background-color: #5C5024; color:white">
     <div class="container d-flex align-items-center pt-2">
-        <div class="col col-6 alamat">
-            <div class="d-flex align-items-center">
+        <div class="col ms-3 col-5 alamat">
+            <div class="d-flex col-8 align-items-center">
                 <i class="fas fa-map-marker-alt me-3"></i>
                 <p class="m-0 p-0">MTH Square Ground Floor (GF) A4 A, Jl. Letjen
                     M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
