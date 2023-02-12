@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 
-<body>
+<body class="d-flex flex-column min-vh-100">
     <!-- ini nav -->
     <nav class="navbar navbar-expand-lg fs-3" style="background-color: #5C5024;">
         <div class=" container-fluid">
