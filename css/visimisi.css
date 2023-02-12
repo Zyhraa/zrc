@@ -4,37 +4,74 @@
    text-align: center;
 }
 
-.vm > h1 {
-   font-family: "Playfair Display", serif;
-   color: white;
-   font-size: 60px;
-   font-weight: 800;
-   margin-top: 3%;
-}
-
-.vm > p {
-   font-family: "News Cycle", sans-serif;
-   color: #d8ba55;
-   font-size: 30px;
-   font-weight: 400;
-   margin: 0 5% 10% 5%;
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media all and (min-width: 768px) {
+@media only screen and (max-width: 600px) {
    .vm > h1 {
       font-family: "Playfair Display", serif;
-      color: rgb(255, 0, 0);
-      font-size: 10px;
+      color: white;
+      font-size: 35px;
       font-weight: 800;
       margin-top: 3%;
-      background-color: aqua;
    }
 
    .vm > p {
       font-family: "News Cycle", sans-serif;
-      color: #ffc400;
-      font-size: 10px;
+      color: #d8ba55;
+      font-size: 20px;
+      font-weight: 400;
+      margin: 0 5% 10% 5%;
+   }
+}
+
+@media only screen and (min-width: 600px) {
+   .vm > h1 {
+      font-family: "Playfair Display", serif;
+      color: white;
+      font-size: 50px;
+      font-weight: 800;
+      margin-top: 3%;
+   }
+
+   .vm > p {
+      font-family: "News Cycle", sans-serif;
+      color: #d8ba55;
+      font-size: 20px;
+      font-weight: 400;
+      margin: 0 5% 10% 5%;
+   }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+   .vm > h1 {
+      font-family: "Playfair Display", serif;
+      color: white;
+      font-size: 55px;
+      font-weight: 800;
+      margin-top: 3%;
+   }
+
+   .vm > p {
+      font-family: "News Cycle", sans-serif;
+      color: #d8ba55;
+      font-size: 25px;
+      font-weight: 400;
+      margin: 0 5% 10% 5%;
+   }
+}
+
+@media only screen and (min-width: 1200px) {
+   .vm > h1 {
+      font-family: "Playfair Display", serif;
+      color: white;
+      font-size: 60px;
+      font-weight: 800;
+      margin-top: 3%;
+   }
+
+   .vm > p {
+      font-family: "News Cycle", sans-serif;
+      color: #d8ba55;
+      font-size: 30px;
       font-weight: 400;
       margin: 0 5% 10% 5%;
    }
