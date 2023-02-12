@@ -5,7 +5,7 @@
 
 <body>
    <!-- ini nav -->
-   <nav class="navbar navbar-expand-lg fs-3" style="background-color: #5C5024;">
+   <nav class="navbar navbar-expand-lg fs-3">
       <div class=" container-fluid">
          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
