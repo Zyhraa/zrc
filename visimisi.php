@@ -1,5 +1,5 @@
 <?php include 'assets/header.php'; ?>
-<link rel="stylesheet" type="text/css" href="assets/css/visimisi.css">
+<link rel="stylesheet" type="text/css" href="css/visimisi.css">
 </head>
 
 <body>
