@@ -21,17 +21,17 @@ include 'assets/header.php';
         <div>&nbsp;</div>
 
         <div class="center2">
-            <div class="col col-6 alamat">
-                <i class="fas fa-map-marker-alt m-3"></i>
+            <div class="alamat">
+                <i class="fas fa-map-marker-alt"></i>
                 <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
                     M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
             </div>
-            <div class="col col-4 alamat">
-                <i class="fas fa-envelope m-3"></i>
+            <div class="alamat">
+                <i class="fas fa-envelope"></i>
                 <p>zadderoyalcrown@gmail.com</p>
             </div>
-            <div class="col col-2 alamat">
-                <i class="fas fa-phone-alt m-3"></i>
+            <div class="alamat">
+                <i class="fas fa-phone-alt"></i>
                 <p>0811336951</p>
             </div>
         </div>
