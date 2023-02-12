@@ -5,7 +5,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-   .vm > h1 {
+   .vm>h1 {
       font-family: "Playfair Display", serif;
       color: white;
       font-size: 35px;
@@ -13,7 +13,7 @@
       margin-top: 3%;
    }
 
-   .vm > p {
+   .vm>p {
       font-family: "News Cycle", sans-serif;
       color: #d8ba55;
       font-size: 20px;
@@ -23,7 +23,7 @@
 }
 
 @media only screen and (min-width: 600px) {
-   .vm > h1 {
+   .vm>h1 {
       font-family: "Playfair Display", serif;
       color: white;
       font-size: 50px;
@@ -31,7 +31,7 @@
       margin-top: 3%;
    }
 
-   .vm > p {
+   .vm>p {
       font-family: "News Cycle", sans-serif;
       color: #d8ba55;
       font-size: 20px;
@@ -42,7 +42,7 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-   .vm > h1 {
+   .vm>h1 {
       font-family: "Playfair Display", serif;
       color: white;
       font-size: 55px;
@@ -50,7 +50,7 @@
       margin-top: 3%;
    }
 
-   .vm > p {
+   .vm>p {
       font-family: "News Cycle", sans-serif;
       color: #d8ba55;
       font-size: 25px;
@@ -60,7 +60,7 @@
 }
 
 @media only screen and (min-width: 1200px) {
-   .vm > h1 {
+   .vm>h1 {
       font-family: "Playfair Display", serif;
       color: white;
       font-size: 60px;
@@ -68,7 +68,7 @@
       margin-top: 3%;
    }
 
-   .vm > p {
+   .vm>p {
       font-family: "News Cycle", sans-serif;
       color: #d8ba55;
       font-size: 30px;

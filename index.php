@@ -4,7 +4,7 @@ include 'assets/header.php';
 <link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 
-<body style="background-image: url('assets/images/splashh.png') ; background-size: cover; background-repeat: no-repeat;">
+<body>
     <div class="all">
         <div>
             <img src="assets/images/graylogo.png" class="logo">

@@ -11,6 +11,12 @@ font-family: "Playfair Display", serif;
    color: white;
 }
 
+body {
+   background-image: url('../assets/images/splashh.png');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
 .all {
    height: 100vh;
    display: flex;
@@ -29,13 +35,13 @@ font-family: "Playfair Display", serif;
    align-items: center;
 }
 
-div > h1 {
+div>h1 {
    font-family: "Playfair Display", serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div > p {
+div>p {
    font-family: "IM Fell Great Primer SC", serif;
    font-weight: 300;
    font-size: 2vw;
