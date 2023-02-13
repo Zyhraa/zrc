@@ -17,6 +17,23 @@ a {
 }
 
 /* <--------------------batas footer------------------> */
+body {
+   position: relative;
+}
+
+body::after {
+   content: "";
+   display: block;
+   height: 30px; /* Set same as footer's height */
+}
+
+footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 30px;
+}
+
 .fcenter2 {
    display: flex;
    justify-content: space-evenly;
@@ -42,7 +59,7 @@ a {
 
 .cr {
    margin: 0px 10px;
-   font-size: 1.5vw;
+   font-size: 1.2vw;
 }
 
 @media only screen and (max-width: 600px) {
@@ -54,7 +71,7 @@ a {
    }
 
    .falamat p {
-      font-size: 3vw;
+      font-size: 10vw;
    }
 
    .falamat i {
@@ -95,6 +112,6 @@ a {
 
    .cr {
       margin: 0px 10px;
-      font-size: 2vw;
+      font-size: 1.5vw;
    }
 }
