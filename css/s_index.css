@@ -11,187 +11,207 @@ font-family: "Playfair Display", serif;
 */
 
 * {
-    padding: 0;
-    margin: 0;
-    color: white;
+   padding: 0;
+   margin: 0;
+   color: white;
 }
 
 body {
-    background-image: url('../assets/images/splashh.png');
-    background-size: cover;
-    background-repeat: no-repeat;
+   background-image: url("../assets/images/splashh.png");
+   background-size: cover;
+   background-repeat: no-repeat;
 }
 
 .all {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
 }
 
 .logo {
-    display: block;
-    width: 10%;
+   display: block;
+   width: 10%;
 }
 
 .center1 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }
 
 /* text zadde royal */
-div>h1 {
-    font-family: "Playfair Display", serif;
-    font-weight: 700;
-    font-size: 4vw;
+div > h1 {
+   font-family: "Playfair Display", serif;
+   font-weight: 700;
+   font-size: 4vw;
 }
 
-div>p {
-    font-family: "IM Fell Great Primer SC", serif;
-    font-weight: 300;
-    font-size: 2vw;
+div > p {
+   font-family: "IM Fell Great Primer SC", serif;
+   font-weight: 300;
+   font-size: 2vw;
 }
 
 /* tombol */
 .btnku {
-    border: 2px solid;
-    border-color: rgb(231, 214, 190);
-    border-radius: 1rem;
-    background-color: rgba(0, 0, 0, 0.6);
-    font-weight: 600;
-    width: 200px;
+   border: 2px solid;
+   border-color: rgb(231, 214, 190);
+   border-radius: 1rem;
+   background-color: rgba(0, 0, 0, 0.6);
+   font-weight: 600;
+   width: 200px;
+}
+
+.btnku:hover {
+   box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
+   -webkit-transform: translate(0px, -10px) scale(1.2);
+   transform: translate(0px, -10px) scale(1.2);
 }
 
 .center2 {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 3vh;
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 3vh;
 }
-
-
 
 /* <-------batas index-------> */
 
 /* <-------ini footer index-------> */
 .alamat p {
-    margin: 0;
-    padding: 0;
-    font-size: 1.5vw;
+   margin: 0;
+   padding: 0;
+   font-size: 1.5vw;
 }
 
 .alamat i {
-    font-size: 2vw;
-    margin-right: 15px;
+   font-size: 2vw;
+   margin-right: 15px;
 }
 
 .alamat {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0px 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0px 50px;
 }
-
 
 /* media query */
 /* handphone */
 @media only screen and (max-width: 600px) {
-    .logo {
-        display: block;
-        width: 30%;
-    }
+   .logo {
+      display: block;
+      width: 30%;
+   }
 
-    div>h1 {
-        font-size: 7vw;
-    }
+   div > h1 {
+      font-size: 7vw;
+   }
 
-    div>p {
-        font-size: 4vw;
-    }
+   div > p {
+      font-size: 4vw;
+   }
 
-    .btnku {
-        border: 2px solid;
-        border-color: rgb(231, 214, 190);
-        border-radius: 1rem;
-        background-color: rgba(0, 0, 0, 0.6);
-        font-weight: 600;
-        width: 150px;
-        padding: 10px 0px;
-    }
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 150px;
+      padding: 10px 0px;
+   }
 
-    .center2 {
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-    }
+   .btnku:hover {
+      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
+      -webkit-transform: translate(0px, -10px) scale(1.2);
+      transform: translate(0px, -10px) scale(1.2);
+   }
 
-    .alamat p {
-        font-size: 3vw;
-    }
+   .center2 {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+   }
 
-    .alamat i {
-        margin: 0px 10px;
-        font-size: 2vw;
-    }
+   .alamat p {
+      font-size: 3vw;
+   }
 
-    .alamat {
-        margin: 3px;
-    }
+   .alamat i {
+      margin: 0px 10px;
+      font-size: 2vw;
+   }
+
+   .alamat {
+      margin: 3px;
+   }
 }
 
 @media only screen and (min-width: 600px) {
-    .logo {
-        display: block;
-        width: 25%;
-    }
+   .logo {
+      display: block;
+      width: 25%;
+   }
 
-    div>h1 {
-        font-size: 6vw;
-    }
+   div > h1 {
+      font-size: 6vw;
+   }
 
-    div>p {
-        font-size: 3vw;
-    }
+   div > p {
+      font-size: 3vw;
+   }
 
-    .btnku {
-        border: 2px solid;
-        border-color: rgb(231, 214, 190);
-        border-radius: 1rem;
-        background-color: rgba(0, 0, 0, 0.6);
-        font-weight: 600;
-        width: 150px;
-        padding: 10px 0px;
-    }
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 150px;
+      padding: 10px 0px;
+   }
+
+   .btnku:hover {
+      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
+      -webkit-transform: translate(0px, -10px) scale(1.2);
+      transform: translate(0px, -10px) scale(1.2);
+   }
 }
 
 @media only screen and (min-width: 768px) {
-    .logo {
-        display: block;
-        width: 20%;
-    }
+   .logo {
+      display: block;
+      width: 20%;
+   }
 
-    div>h1 {
-        font-size: 4vw;
-    }
+   div > h1 {
+      font-size: 4vw;
+   }
 
-    div>p {
-        font-size: 2vw;
-    }
+   div > p {
+      font-size: 2vw;
+   }
 
-    .btnku {
-        border: 2px solid;
-        border-color: rgb(231, 214, 190);
-        border-radius: 1rem;
-        background-color: rgba(0, 0, 0, 0.6);
-        font-weight: 600;
-        width: 200px;
-    }
+   .btnku {
+      border: 2px solid;
+      border-color: rgb(231, 214, 190);
+      border-radius: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      font-weight: 600;
+      width: 200px;
+   }
+
+   .btnku:hover {
+      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
+      -webkit-transform: translate(0px, -10px) scale(1.2);
+      transform: translate(0px, -10px) scale(1.2);
+   }
 }
 
 @media only screen and (min-width: 1200px) {
-    .logo {
-        display: block;
-        width: 15%;
-    }
-
+   .logo {
+      display: block;
+      width: 15%;
+   }
 }
