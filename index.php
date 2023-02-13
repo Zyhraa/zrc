@@ -1,7 +1,7 @@
 <?php
 include 'assets/header.php';
 ?>
-<link rel="stylesheet" type="text/css" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="css/s_index.css">
 </head>
 
 <body>
