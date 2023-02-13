@@ -1,7 +1,7 @@
 <footer class="mt-auto">
     <div style="background-color: #5C5024; color:white">
-        <div class="fcenter2">
-            <div class="falamat col-4">
+        <div class="fcenter2 d-flex justify-content-center">
+            <div class="falamat">
                 <i class="fas fa-map-marker-alt"></i>
                 <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
                     M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
@@ -15,34 +15,11 @@
                 <p>0811336951</p>
             </div>
         </div>
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center cr">
             <p>&#169; 2023 Zadde Royal Crown, All Right Reserved </p>
         </div>
     </div>
-    <!-- <div class="container d-flex align-items-center pt-2">
-            <div class="col ms-3 col-5 alamat">
-                <div class="d-flex col-8 align-items-center">
-                    <i class="fas fa-map-marker-alt me-3"></i>
-                    <p class="m-0 p-0 " style="font-family: ' News Cycle', sans-serif;">MTH Square Ground Floor (GF) A4 A, Jl. Letjen
-                        M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
-                </div>
-            </div>
-            <div class="col col-4 alamat">
-                <div class="d-flex align-items-center">
-                    <i class="fas fa-envelope me-3"></i>
-                    <p class="m-0 p-0" style="font-family: ' News Cycle', sans-serif;">zadderoyalcrown@gmail.com</p>
-                </div>
-            </div>
-            <div class="col col-lg-2 alamat">
-                <div class="d-flex align-items-center">
-                    <i class="fas fa-phone-alt me-3"></i>
-                    <p class="m-0 p-0" style="font-family: ' News Cycle', sans-serif;">0811336951</p>
-                </div>
-            </div>
-        </div>
-        <div class="d-flex justify-content-center p-2">
-            <p style="font-family: ' News Cycle', sans-serif;">&#169; 2023 Zadde Royal Crown, All Right Reserved </p>
-        </div> -->
+
     </div>
 
 </footer>
