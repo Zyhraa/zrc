@@ -29,7 +29,7 @@
    <!-- ini nav -->
 
 
-   <div class="bg-image test" style="background-image: url('assets/images/home1.png'), url('assets/images/home1.png'); background-size: cover;  background-repeat:no-repeat;">
+   <div class="bg-image test" style="background-image: url('assets/images/homebg2.png'), url('assets/images/home1.png'); background-size: cover;  background-repeat:no-repeat;">
       <div class="text-center">
          <div class="d-flex justify-content-center">
             <img src="assets/images/logogold.png" width="400px">
