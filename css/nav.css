@@ -13,6 +13,88 @@ nav {
 }
 
 a {
-   font-style: "News Cycle", sans-serif;
    font-weight: 600;
+}
+
+/* <--------------------batas footer------------------> */
+.fcenter2 {
+   display: flex;
+   justify-content: space-evenly;
+   margin-bottom: 3vh;
+}
+.falamat p {
+   margin: 0;
+   padding: 0;
+   font-size: 1.2vw;
+}
+
+.falamat i {
+   font-size: 2vw;
+   margin-right: 15px;
+}
+
+.falamat {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 10px 50px;
+}
+
+.cr {
+   margin: 0px 10px;
+   font-size: 1.5vw;
+}
+
+@media only screen and (max-width: 600px) {
+   .fcenter2 {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+      margin: 0 80px;
+   }
+
+   .falamat p {
+      font-size: 3vw;
+   }
+
+   .falamat i {
+      margin: 0px 10px;
+      font-size: 3vw;
+   }
+
+   .falamat {
+      margin: 5px;
+   }
+
+   .cr {
+      margin: 0px 10px;
+      font-size: 3vw;
+   }
+}
+
+@media only screen and (max-width: 768px) {
+   .fcenter2 {
+      display: flex;
+      justify-content: space-evenly;
+      margin-bottom: 3vh;
+   }
+   .falamat p {
+      margin: 0 20px 0 0;
+      padding: 0;
+      font-size: 1.5vw;
+   }
+
+   .falamat i {
+      margin: 0 10px 0 15px;
+      font-size: 2vw;
+   }
+
+   .falamat {
+      margin: 5px;
+   }
+
+   .cr {
+      margin: 0px 10px;
+      font-size: 2vw;
+   }
 }
