@@ -1,6 +1,6 @@
 <?php include 'assets/header.php'; ?>
-<link rel="stylesheet" type="text/css" href="css/nav.css">
-<link rel="stylesheet" type="text/css" href="css/visimisi.css">
+<link rel="stylesheet" type="text/css" href="css/s_nav.css">
+<link rel="stylesheet" type="text/css" href="css/s_visimisi.css">
 </head>
 
 <body>
