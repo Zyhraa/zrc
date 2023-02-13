@@ -17,28 +17,10 @@ a {
 }
 
 /* <--------------------batas footer------------------> */
-body {
-    position: relative;
-}
-
-body::after {
-    content: "";
-    display: block;
-    height: 30px;
-    /* Set same as footer's height */
-}
-
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 30px;
-}
 
 .fcenter2 {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 3vh;
 }
 
 .falamat p {

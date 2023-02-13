@@ -1,0 +1,10 @@
+.all {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("../assets/images/teambg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
