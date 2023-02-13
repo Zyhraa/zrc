@@ -38,18 +38,15 @@
       </div>
       <div class="jasa">
          <h1>Our Services</h1>
-         <div class="d-flex">
-            <div class="jarak">&nbsp;</div>
-            <div class="offset-3 col-6 move">
-               <div class="d-flex flex-wrap">
-                  <div class="hex top1">ok</div>
-                  <div class="hex">ok</div>
-                  <div class="hex top2">ok</div>
-                  <div class="hex top2">ok</div>
-                  <div class="hex top2">ok</div>
-                  <div class="hex top1 top2">ok</div>
-                  <div class="hex top2">ok</div>
-               </div>
+         <div class="">
+            <div class="hexagon">
+               <div class="hex hex1 hex4">ok</div>
+               <div class="hex hex3">ok</div>
+               <div class="hex hex2 hex3">ok</div>
+               <div class="hex hex2 hex3 hex4">ok</div>
+               <div class="hex hex2 hex3">ok</div>
+               <div class="hex hex1 hex2 hex3">ok</div>
+               <div class="hex hex2 hex3 hex4">ok</div>
             </div>
          </div>
          <div class="whyus">

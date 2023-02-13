@@ -1,15 +1,21 @@
 .jasa {
-   text-align: center;
    color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 }
 
-.jarak {
-   width: 30px;
+.hexagon {
+   background-color: antiquewhite;
+   width: 39vw;
+   display: flex;
+   flex-wrap: wrap;
 }
 
 .hex {
-   width: 200px;
-   height: 230px;
+   width: 12vw;
+   height: 14vw;
    clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
    background: deeppink;
    display: flex;
@@ -18,17 +24,56 @@
    flex-direction: column;
    cursor: pointer;
    transition: .5s;
-   margin: 0 10px;
+   margin: 0 0.5vw;
 }
 
 .hex:hover {
    transform: scale(0.8);
 }
 
-.top1 {
-   margin-left: 120px;
+.hex1 {
+   margin-left: 7vw;
 }
 
-.top2 {
-   margin-top: -40px;
+.hex2 {
+   margin-top: -2.5vw;
 }
+
+@media only screen and (max-width: 600px) {
+   .hexagon {
+      background-color: antiquewhite;
+      width: 62vw;
+      display: flex;
+      flex-wrap: wrap;
+   }
+
+   .hex {
+      width: 30vw;
+      height: 32vw;
+      margin: 0 0.5vw;
+   }
+
+   .hex1 {
+      margin: 0vw;
+   }
+
+   .hex2 {
+      margin: 0vw;
+   }
+
+   .hex3 {
+      margin: 0 0.5vw;
+      margin-top: -7vw;
+   }
+
+   .hex4 {
+      margin-left: 16vw;
+   }
+
+}
+
+@media only screen and (min-width: 600px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 1200px) {}
