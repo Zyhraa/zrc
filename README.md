@@ -1,11 +1,11 @@
 #header-hiiii
-bisa pake #/ == juga dibawah heading
+
 
 subheading pake -- dibawah
 --
 
-*ini tulisan italic *
- pake **
+*ini tulisan italic*
+ 
  
 - nah ini list
 - pake -
