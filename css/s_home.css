@@ -1,3 +1,10 @@
+.ptDesc {
+   color: white;
+   font-family: "News Cycle", sans-serif;
+   font-weight: 400;
+   font-size: 1.5rem;
+}
+
 .jasa {
    color: white;
    display: flex;

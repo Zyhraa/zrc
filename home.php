@@ -1,6 +1,6 @@
 <?php include 'assets/header.php'; ?>
-<link rel="stylesheet" href="css/home.css">
-<link rel="stylesheet" type="text/css" href="css/nav.css">
+<link rel="stylesheet" href="css/s_home.css">
+<link rel="stylesheet" type="text/css" href="css/s_nav.css">
 </head>
 
 <body>
@@ -32,22 +32,20 @@
    <div class="bg-image test" style="background-image: url('assets/images/homebg2.png'), url('assets/images/home1.png'); background-size: cover;  background-repeat:no-repeat;">
       <div class="text-center">
          <div class="d-flex justify-content-center">
-            <img src="assets/images/logogold.png" width="400px">
+            <img class="mb-3 pt-5 mt-5" src="assets/images/logogold.png" width="300px">
          </div>
-         <p class="text-light">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
+         <p class="ptDesc col-8 offset-2 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
          <h1>Our Services</h1>
-         <div class="">
-            <div class="hexagon">
-               <div class="hex hex1 hex4">ok</div>
-               <div class="hex hex3">ok</div>
-               <div class="hex hex2 hex3">ok</div>
-               <div class="hex hex2 hex3 hex4">ok</div>
-               <div class="hex hex2 hex3">ok</div>
-               <div class="hex hex1 hex2 hex3">ok</div>
-               <div class="hex hex2 hex3 hex4">ok</div>
-            </div>
+         <div class="hexagon">
+            <div class="hex hex1 hex4">ok</div>
+            <div class="hex hex3">ok</div>
+            <div class="hex hex2 hex3">ok</div>
+            <div class="hex hex2 hex3 hex4">ok</div>
+            <div class="hex hex2 hex3">ok</div>
+            <div class="hex hex1 hex2 hex3">ok</div>
+            <div class="hex hex2 hex3 hex4">ok</div>
          </div>
          <div class="whyus">
             <h1>Kenapa pilih kami?</h1>
