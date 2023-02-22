@@ -32,9 +32,9 @@
    <div class="bg-image test" style="background-image: url('assets/images/homebg2.png'), url('assets/images/home1.png'); background-size: cover;  background-repeat:no-repeat;">
       <div class="text-center">
          <div class="d-flex justify-content-center">
-            <img class="mb-3 pt-5 mt-5 logoz" src="assets/images/logogold.png">
+            <img class="mb-3 pt-5 mt-5" src="assets/images/logogold.png" width="300px">
          </div>
-         <p class="ptDesc col-6 offset-3 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
+         <p class="ptDesc col-8 offset-2 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
          <h1>Our Services</h1>
