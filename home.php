@@ -32,12 +32,16 @@
    <div class="bg-image test" style="background-image: url('assets/images/homebg2.png'), url('assets/images/home1.png'); background-size: cover;  background-repeat:no-repeat;">
       <div class="text-center">
          <div class="d-flex justify-content-center">
-            <img class="mb-3 pt-5 mt-5" src="assets/images/logogold.png" width="300px">
+            <img class="mb-3 pt-5 mt-5 logoz" src="assets/images/logogold.png">
          </div>
-         <p class="ptDesc col-8 offset-2 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
+         <p class="ptDesc col-6 offset-3 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
+<<<<<<< Updated upstream
          <h1>Our Services</h1>
+=======
+         <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
+>>>>>>> Stashed changes
          <div class="hexagon">
             <div class="hex hex1 hex4">ok</div>
             <div class="hex hex3">ok</div>
@@ -47,9 +51,15 @@
             <div class="hex hex1 hex2 hex3">ok</div>
             <div class="hex hex2 hex3 hex4">ok</div>
          </div>
+<<<<<<< Updated upstream
          <div class="whyus">
             <h1>Kenapa pilih kami?</h1>
             <p>Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
+=======
+         <div class="whyus mt-5 pt-5 mb-5 pb-5">
+            <h1 class="mb-5 mt-5">Kenapa pilih kami?</h1>
+            <p class="whydesc col-6 offset-3 mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
+>>>>>>> Stashed changes
          </div>
       </div>
    </div>
