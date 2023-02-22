@@ -38,7 +38,11 @@
       </div>
       <div class="jasa">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
          <h1>Our Services</h1>
+=======
+         <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
+>>>>>>> Stashed changes
 =======
          <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
 >>>>>>> Stashed changes
@@ -59,6 +63,9 @@
          <div class="whyus mt-5 pt-5 mb-5 pb-5">
             <h1 class="mb-5 mt-5">Kenapa pilih kami?</h1>
             <p class="whydesc col-6 offset-3 mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
          </div>
       </div>
