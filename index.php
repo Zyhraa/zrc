@@ -1,7 +1,7 @@
 <?php
 include 'assets/header.php';
 ?>
-<link rel="stylesheet" type="text/css" href="css/s_index.css">
+<link rel="stylesheet" type="text/css" href="css/s_index.css?<?php echo time(); ?>">
 </head>
 
 <body>
