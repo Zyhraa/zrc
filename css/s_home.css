@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-.ptDesc {
-   color: white;
-   font-family: "News Cycle", sans-serif;
-   font-weight: 400;
-   font-size: 1.5rem;
-=======
 /* .bg-image {
 
    height: 100%;
@@ -28,19 +21,16 @@
    font-family: "Playfair Display", serif;
    font-size: 2.5vw;
    font-weight: 800;
->>>>>>> Stashed changes
 }
 
 .jasa {
    color: white;
    display: flex;
    flex-direction: column;
-   justify-content: center;
    align-items: center;
 }
 
 .hexagon {
-   background-color: antiquewhite;
    width: 39vw;
    display: flex;
    flex-wrap: wrap;
@@ -50,14 +40,51 @@
    width: 12vw;
    height: 14vw;
    clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
-   background: deeppink;
    display: flex;
+   background-size: cover;
+   background-position: center;
    justify-content: center;
    align-items: center;
    flex-direction: column;
    cursor: pointer;
    transition: 0.5s;
    margin: 0 0.5vw;
+}
+
+.hex > .shadow {
+   background: rgb(0, 0, 0);
+   background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 1) 10%,
+      rgba(0, 0, 0, 0) 100%
+   );
+   width: 100%;
+   height: 100%;
+}
+
+.shadow > a {
+   text-decoration: none;
+   width: 100%;
+   height: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 2vh;
+}
+
+.juduljasa {
+   color: #d8ba55;
+   font-family: "Playfair Display", serif;
+   font-weight: 600;
+   font-size: 1.1vw;
+   text-align: center;
+}
+
+.tomboljasa {
+   border: 2px solid white;
+   padding: 3px 5px;
+   color: white;
 }
 
 .hex:hover {
@@ -72,8 +99,6 @@
    margin-top: -2.5vw;
 }
 
-<<<<<<< Updated upstream
-=======
 .whyus h1 {
    font-family: "Playfair Display", serif;
    font-size: 2.5vw;
@@ -92,7 +117,6 @@
    text-align: center;
 }
 
->>>>>>> Stashed changes
 @media only screen and (max-width: 600px) {
    .logoz {
       width: 200px;
@@ -104,7 +128,6 @@
       font-size: 1rem;
    }
    .hexagon {
-      background-color: antiquewhite;
       width: 62vw;
       display: flex;
       flex-wrap: wrap;

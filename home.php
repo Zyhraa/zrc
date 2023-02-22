@@ -37,15 +37,8 @@
          <p class="ptDesc col-6 offset-3 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
          <h1>Our Services</h1>
-=======
          <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
->>>>>>> Stashed changes
-=======
-         <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
->>>>>>> Stashed changes
          <div class="hexagon">
             <div class="hex hex1 hex4">ok</div>
             <div class="hex hex3">ok</div>
@@ -55,20 +48,16 @@
             <div class="hex hex1 hex2 hex3">ok</div>
             <div class="hex hex2 hex3 hex4">ok</div>
          </div>
-<<<<<<< Updated upstream
          <div class="whyus">
             <h1>Kenapa pilih kami?</h1>
             <p>Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
-=======
-         <div class="whyus mt-5 pt-5 mb-5 pb-5">
-            <h1 class="mb-5 mt-5">Kenapa pilih kami?</h1>
-            <p class="whydesc col-6 offset-3 mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+            <div class="whyus mt-5 pt-5 mb-5 pb-5">
+               <h1 class="mb-5 mt-5">Kenapa pilih kami?</h1>
+               <p class="whydesc col-6 offset-3 mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
+
+            </div>
          </div>
       </div>
-   </div>
 
-   <?php include 'assets/footer.php'; ?>
+      <?php include 'assets/footer.php'; ?>
