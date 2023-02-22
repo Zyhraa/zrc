@@ -118,6 +118,15 @@
 }
 
 @media only screen and (max-width: 600px) {
+   .logoz {
+      width: 200px;
+   }
+   .ptDesc {
+      color: white;
+      font-family: "News Cycle", sans-serif;
+      font-weight: 700;
+      font-size: 1rem;
+   }
    .hexagon {
       width: 62vw;
       display: flex;
@@ -149,10 +158,38 @@
 }
 
 @media only screen and (min-width: 600px) {
+   .logoz {
+      width: 200px;
+   }
+   .ptDesc {
+      color: white;
+      font-family: "News Cycle", sans-serif;
+      font-weight: 700;
+      font-size: 1.3rem;
+   }
 }
 
 @media only screen and (min-width: 768px) {
+   .logoz {
+      width: 250px;
+   }
+   .ptDesc {
+      color: white;
+      font-family: "News Cycle", sans-serif;
+      font-weight: 700;
+      font-size: 1.5rem;
+   }
 }
 
 @media only screen and (min-width: 1200px) {
+   .logoz {
+      width: 300px;
+   }
+
+   .ptDesc {
+      color: white;
+      font-family: "News Cycle", sans-serif;
+      font-weight: 700;
+      font-size: 2rem;
+   }
 }
