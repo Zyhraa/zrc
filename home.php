@@ -37,15 +37,50 @@
          <p class="ptDesc col-8 offset-2 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
-         <h1>Our Services</h1>
+         <h1 class="mb-5">Our Services</h1>
          <div class="hexagon">
-            <div class="hex hex1 hex4">ok</div>
-            <div class="hex hex3">ok</div>
-            <div class="hex hex2 hex3">ok</div>
-            <div class="hex hex2 hex3 hex4">ok</div>
-            <div class="hex hex2 hex3">ok</div>
-            <div class="hex hex1 hex2 hex3">ok</div>
-            <div class="hex hex2 hex3 hex4">ok</div>
+            <div class="hex hex1 hex4" style="background-image: url(assets/images/jasa1.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex3" style="background-image: url(assets/images/jasa2.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa3.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa4.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa5.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex1 hex2 hex3" style="background-image: url(assets/images/jasa6.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
+            <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa7.png);">
+               <div class="shadow"><a href="jasa/#.html">
+                     <p>judul jasa</p>
+                     <p class="tomboljasa"> tombol</p>
+                  </a></div>
+            </div>
          </div>
          <div class="whyus">
             <h1>Kenapa pilih kami?</h1>
