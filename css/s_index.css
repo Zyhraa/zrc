@@ -54,19 +54,47 @@ div > p {
 }
 
 /* tombol */
-.btnku {
-   border: 2px solid;
-   border-color: rgb(231, 214, 190);
-   border-radius: 1rem;
-   background-color: rgba(0, 0, 0, 0.6);
+
+.btn-three {
+   color: #fff;
    font-weight: 600;
+   transition: all 0.5s;
+   position: relative;
    width: 200px;
 }
-
-.btnku:hover {
-   box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
-   -webkit-transform: translate(0px, -10px) scale(1.2);
-   transform: translate(0px, -10px) scale(1.2);
+.btn-three::before {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: 1rem;
+   width: 100%;
+   height: 100%;
+   z-index: 1;
+   background-color: rgba(255, 255, 255, 0.301);
+   transition: all 0.3s;
+}
+.btn-three:hover::before {
+   opacity: 0;
+   transform: scale(0.5, 0.5);
+}
+.btn-three::after {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   border-radius: 1rem;
+   z-index: 1;
+   opacity: 0;
+   transition: all 0.3s;
+   border: 3px solid rgb(231, 214, 190, 0.5);
+   transform: scale(1.2, 1.2);
+}
+.btn-three:hover::after {
+   opacity: 1;
+   transform: scale(1, 1);
 }
 
 .center2 {
@@ -103,6 +131,13 @@ div > p {
       display: block;
       width: 30%;
    }
+   .btn-three {
+      color: #fff;
+      font-weight: 600;
+      transition: all 0.5s;
+      position: relative;
+      width: 130px;
+   }
 
    div > h1 {
       font-size: 7vw;
@@ -110,22 +145,6 @@ div > p {
 
    div > p {
       font-size: 4vw;
-   }
-
-   .btnku {
-      border: 2px solid;
-      border-color: rgb(231, 214, 190);
-      border-radius: 1rem;
-      background-color: rgba(0, 0, 0, 0.6);
-      font-weight: 600;
-      width: 150px;
-      padding: 10px 0px;
-   }
-
-   .btnku:hover {
-      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
-      -webkit-transform: translate(0px, -10px) scale(1.2);
-      transform: translate(0px, -10px) scale(1.2);
    }
 
    .center2 {
@@ -153,6 +172,13 @@ div > p {
       display: block;
       width: 25%;
    }
+   .btn-three {
+      color: #fff;
+      font-weight: 600;
+      transition: all 0.5s;
+      position: relative;
+      width: 150px;
+   }
 
    div > h1 {
       font-size: 6vw;
@@ -160,22 +186,6 @@ div > p {
 
    div > p {
       font-size: 3vw;
-   }
-
-   .btnku {
-      border: 2px solid;
-      border-color: rgb(231, 214, 190);
-      border-radius: 1rem;
-      background-color: rgba(0, 0, 0, 0.6);
-      font-weight: 600;
-      width: 150px;
-      padding: 10px 0px;
-   }
-
-   .btnku:hover {
-      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
-      -webkit-transform: translate(0px, -10px) scale(1.2);
-      transform: translate(0px, -10px) scale(1.2);
    }
 }
 
@@ -192,20 +202,12 @@ div > p {
    div > p {
       font-size: 2vw;
    }
-
-   .btnku {
-      border: 2px solid;
-      border-color: rgb(231, 214, 190);
-      border-radius: 1rem;
-      background-color: rgba(0, 0, 0, 0.6);
+   .btn-three {
+      color: #fff;
       font-weight: 600;
-      width: 200px;
-   }
-
-   .btnku:hover {
-      box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.29);
-      -webkit-transform: translate(0px, -10px) scale(1.2);
-      transform: translate(0px, -10px) scale(1.2);
+      transition: all 0.5s;
+      position: relative;
+      width: 170px;
    }
 }
 
@@ -213,5 +215,12 @@ div > p {
    .logo {
       display: block;
       width: 15%;
+   }
+   .btn-three {
+      color: #fff;
+      font-weight: 600;
+      transition: all 0.5s;
+      position: relative;
+      width: 200px;
    }
 }
