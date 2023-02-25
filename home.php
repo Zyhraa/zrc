@@ -80,7 +80,19 @@
             <div class="hex hex1 hex4" style="background-image: url(assets/images/jasa1.png);">
                <div class="shadow"><a href="jasa/event.php">
                      <p class="juduljasa px-2 mx-4">Event Organizer</p>
-                     <p class="tomboljasa">Learn More</p>
+
+                     <div class="center">
+                        <button class="btn">
+                           <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
+                              <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
+                              <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
+                           </svg>
+                           <span>HOVER ME</span>
+                        </button>
+                     </div>
+
+
+
                   </a></div>
             </div>
             <div class="hex hex3" style="background-image: url(assets/images/jasa2.png);">
