@@ -1,8 +1,8 @@
 /* 
 foto background 9:19
 font-family: "IM Fell Great Primer SC", serif;
-font-family: "News Cycle", sans-serif;
-font-family: "Playfair Display", serif;
+font-family: "News Cycle", sans-serif; 400 + 700
+font-family: "Playfair Display", serif; 600 + 700 + 800 + 900
 
 @media only screen and (max-width: 600px) {}
 @media only screen and (min-width: 600px) {}

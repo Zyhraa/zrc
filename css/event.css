@@ -1,0 +1,30 @@
+.all {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   background-image: url("../assets/images/teambg.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.tengah {
+   text-align: center;
+}
+
+.carousel-item img {
+   width: auto;
+}
+
+.judulevent {
+   font-family: "Playfair Display", serif;
+   color: white;
+   font-weight: 900;
+}
+
+.eventabout {
+   font-family: "News Cycle", sans-serif;
+   color: #d8ba55;
+   font-weight: 700;
+   font-size: 1.5em;
+}

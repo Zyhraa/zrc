@@ -82,8 +82,8 @@
                   </a></div>
             </div>
             <div class="whyus mt-5 pt-5 mb-5 pb-5">
-               <h1 class="mb-5 mt-5">Kenapa pilih kami?</h1>
-               <p class="whydesc col-10 offset-1 mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
+               <h1 class="mb-3 mt-5">Kenapa pilih kami?</h1>
+               <p class="whydesc mb-5 pb-5">Karena kami adalah pilihan utama dalam memberikan solusi inovatif kreatif dan terpercaya, memberikan kontribusi yang melebihi dari harapan klien atau mitra melalui pelayanan istimewa secara profesional dan intergritas penuh.</p>
             </div>
          </div>
       </div>
