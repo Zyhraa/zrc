@@ -1,102 +1,217 @@
-/* <-------batas header------> */
-.navbar {
-    font-family: "Playfair Display", serif;
-    font-weight: 900;
+* {
+   margin: 0;
+   padding: 0;
 }
 
-nav {
-    background-color: #5c5024;
+@media (max-width: 992px) {
+   header .container-fluid {
+      padding: 0 5%;
+   }
 }
 
-.navbar .navbar-collapse {
-    text-align: center;
+/* header .item-button a:hover {
+   background-color: #64d6f4;
+} */
+
+header .mobile-toggler {
+   font-size: 30px;
+   color: white;
+}
+
+/* modal */
+
+.modal-dialog {
+   margin: 0;
+   width: 430px;
+}
+
+@media (max-width: 450px) {
+   .modal-dialog {
+      width: 82%;
+   }
+}
+
+.modal-content {
+   border-radius: 0;
+   height: 100vh;
+   overflow-y: scroll;
+   background-color: #72632d;
+}
+
+.modal-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 88%;
+   margin: 0 auto;
+   padding-bottom: 16px;
+   border-bottom: 2px solid rgba(0, 0, 0, 0.744);
+}
+
+.modal-header img {
+   width: 140px;
+   margin-top: 17.5px;
+}
+
+.modal-header .btn-close {
+   background: transparent;
+   opacity: 1;
+}
+
+.modal-header i {
+   color: #fefefe;
+   font-size: 30px;
+}
+
+.modal-body {
+   width: 88%;
+   margin: 0 auto;
+   padding: 75px 0 0 0;
+   flex: unset;
+}
+
+.modal-body .modal-line {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   padding: 7px 0;
+   margin-bottom: 50px;
+   cursor: pointer;
+   transition: all 0.5s ease;
+   color: rgba(0, 0, 0, 0.592);
+   border-bottom: 2px solid rgba(0, 0, 0, 0.709);
+}
+
+.modal-body .modal-line:hover {
+   color: #fefefe;
+   border-bottom: 1px solid #fefefe;
+}
+
+.modal-line a {
+   font-family: "Rubik", sans-serif;
+   font-size: 15px;
+   font-weight: 700;
+   letter-spacing: 2.5px;
+   color: #fefefe;
+}
+
+.modal-line i {
+   color: currentColor;
+   font-size: 30px;
+   width: 35px;
+   margin-right: 15px;
+   padding: 0 0 3px 3px;
+}
+
+.mobile-modal-footer {
+   width: 87%;
+   margin: 0 auto;
+   padding: 20% 0;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 25px;
+   color: #274d8a;
+}
+
+.mobile-modal-footer i:hover {
+   color: #fefefe;
+}
+
+/* .section-1 {
+   width: 100vw;
+   height: 95vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.section-1 p {
+   font-size: 75px;
+   font-weight: 700;
+   color: #102447;
+   width: 90%;
+   text-align: center;
+} */
+
+@media (max-width: 767px) {
+   .section-1 p {
+      font-size: 50px;
+      text-align: start;
+      width: 70%;
+      margin: auto;
+   }
 }
 
 a {
-    font-weight: 600;
+   text-decoration: none;
+   color: currentColor;
 }
 
-/* <--------------------batas footer------------------> */
-
-.fcenter2 {
-    display: flex;
-    justify-content: space-evenly;
+a:hover {
+   color: currentColor;
 }
 
-.falamat p {
-    margin: 0;
-    padding: 0;
-    font-size: 1.2vw;
+header {
+   width: 100%;
+   height: 8vh;
+   background-color: #72632d;
+   box-shadow: 0px 3px 8px rgba(0, 0, 0, 25%);
+   display: flex;
+   align-items: center;
 }
 
-.falamat i {
-    font-size: 2vw;
-    margin-right: 15px;
+header .container-fluid {
+   width: 100%;
+   padding: 0 60px;
+   display: flex;
+   align-items: center;
 }
 
-.falamat {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 10px 50px;
+header .navb-items {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   letter-spacing: 3px;
+   gap: 20px;
 }
 
-.cr {
-    margin: 0px 10px;
-    font-size: 1.2vw;
+header .item {
+   text-align: center;
+   margin-inline: 2%;
+   font-size: 20px;
+   letter-spacing: 3px;
+   color: #ffffff;
+   font-family: "Playfair Display", serif;
+   font-size: 25px;
+   font-weight: 800;
+   padding: 5px 0;
+   transition: all 0.1s ease;
+   border-bottom: 0px solid #ffffff;
+   border-top: 0px solid #ffffff;
+   cursor: pointer;
 }
 
-@media only screen and (max-width: 600px) {
-    .fcenter2 {
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-        margin: 0 80px;
-    }
-
-    .falamat p {
-        font-size: 10vw;
-    }
-
-    .falamat i {
-        margin: 0px 10px;
-        font-size: 3vw;
-    }
-
-    .falamat {
-        margin: 5px;
-    }
-
-    .cr {
-        margin: 0px 10px;
-        font-size: 3vw;
-    }
+.misi {
+   width: 200px;
 }
 
-@media only screen and (max-width: 768px) {
-    .fcenter2 {
-        display: flex;
-        justify-content: space-evenly;
-        margin-bottom: 3vh;
-    }
+header .item:hover {
+   border-bottom: 3px solid #ffffff;
+   border-top: 3px solid #ffffff;
+}
 
-    .falamat p {
-        margin: 0 20px 0 0;
-        padding: 0;
-        font-size: 1.5vw;
-    }
-
-    .falamat i {
-        margin: 0 10px 0 15px;
-        font-size: 2vw;
-    }
-
-    .falamat {
-        margin: 5px;
-    }
-
-    .cr {
-        margin: 0px 10px;
-        font-size: 1.5vw;
-    }
+header .item-button a {
+   background-color: #274d8a;
+   width: 150px;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 16px;
+   font-weight: 600;
+   color: white;
+   transition: all 0.5s ease;
 }
