@@ -9,13 +9,13 @@
       <div class="container-fluid">
          <div class="navb-items d-none d-xl-flex">
             <div class="item">
-               <a href="/">Home</a>
+               <a href="home.php">Home</a>
             </div>
             <div class="item">
-               <a href="/services">Visi & Misi</a>
+               <a href="visimisi.php">Visi & Misi</a>
             </div>
             <div class="item">
-               <a href="/cases">Team</a>
+               <a href="team.php">Team</a>
             </div>
          </div>
 
@@ -39,15 +39,15 @@
                   <div class="modal-body">
 
                      <div class="modal-line">
-                        <i class="fa-solid fa-house"></i><a href="/">Home</a>
+                        <i class="fa-solid fa-house"></i><a href="home.php">Home</a>
                      </div>
 
                      <div class="modal-line">
-                        <i class="fa-solid fa-file-lines"></i><a href="/services">Visi & Misi</a>
+                        <i class="fa-solid fa-file-lines"></i><a href="visimisi.php">Visi & Misi</a>
                      </div>
 
                      <div class="modal-line">
-                        <i class="fa-solid fa-user-group"></i><a href="/cases">Team</a>
+                        <i class="fa-solid fa-user-group"></i><a href="team.php">Team</a>
                      </div>
                   </div>
 
@@ -67,7 +67,7 @@
    <!-- ini nav -->
 
 
-   <div class="bg-image test" style="background-image: url('assets/images/home1.png'); background-size:cover; background-repeat: no-repeat;">
+   <div class="bg-image test">
       <div class="text-center">
          <div class="d-flex justify-content-center">
             <img class="mb-3 pt-5 mt-5 logoz" src="assets/images/logogold.png">
