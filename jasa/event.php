@@ -70,22 +70,17 @@
       <div class="d-flex justify-content-center flex-column mt-5 tengah">
          <h1 class="judulevent mt-5">Event Organizer</h1>
 
-         <div class="picshowslide d-flex justify-content-center my-5">
+         <div class="my-5 d-flex justify-content-center">
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-               <div class="carousel-indicators">
-                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-               </div>
                <div class="carousel-inner">
-                  <div class="carousel-item active" data-bs-interval="10000">
+                  <div class="carousel-item active">
                      <img src="../assets/images/event1.jpg" alt="...">
                   </div>
                   <div class="carousel-item">
-                     <img src="../assets/images/event2.jpg" alt="...">
+                     <img src="../assets/images/event2new.png" alt="...">
                   </div>
                   <div class="carousel-item">
-                     <img src="../assets/images/event3.jpg" alt="...">
+                     <img src="../assets/images/event3new.jpg" alt="...">
                   </div>
                </div>
                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
