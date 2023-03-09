@@ -78,9 +78,9 @@
          <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
          <div class="hexagon">
             <div class="hex hex1 hex4" style="background-image: url(assets/images/jasa1.png);">
-               <div class="shadow"><a href="jasa/event.php">
+               <div class="shadow">
+                  <a href="jasa/event.php">
                      <p class="juduljasa px-2 mx-4">Event Organizer</p>
-
                      <div class="center">
                         <button class="btn">
                            <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
@@ -90,11 +90,11 @@
                            <span>HOVER ME</span>
                         </button>
                      </div>
-
-
-
-                  </a></div>
+                  </a>
+               </div>
             </div>
+
+
             <div class="hex hex3" style="background-image: url(assets/images/jasa2.png);">
                <div class="shadow"><a href="jasa/merch.php">
                      <p class="juduljasa px-2 mx-4">Merchandise</p>
