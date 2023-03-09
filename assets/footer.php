@@ -1,6 +1,6 @@
 <div style="background-color: #5C5024; color:white">
-    <div class="fcenter2 d-flex justify-content-center">
-        <div class="falamat">
+    <div class="fcenter2 d-flex justify-content-center pt-3">
+        <div class="falamat     ">
             <i class="fas fa-map-marker-alt"></i>
             <p>MTH Square Ground Floor (GF) A4 A, Jl. Letjen
                 M. T. Haryono Kav. 10,Jakarta Timur, 13330</p>
@@ -14,7 +14,7 @@
             <p>0811336951</p>
         </div>
     </div>
-    <div class="d-flex justify-content-center cr">
+    <div class="d-flex justify-content-center mt-2 cr">
         <p>&#169; 2023 Zadde Royal Crown, All Right Reserved </p>
     </div>
 </div>

@@ -134,16 +134,54 @@ header .mobile-toggler {
    width: 90%;
    text-align: center;
 } */
+.falamat p {
+   margin: 0;
+   padding: 0;
+}
 
-@media (max-width: 767px) {
+.falamat i {
+   margin-right: 10px;
+}
+
+.falamat {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0px 50px;
+}
+
+@media only screen and (max-width: 600px) {
+   .fcenter2 {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+   }
+   .falamat {
+      margin: 5px 15px;
+   }
+   .cr {
+      font-size: 0.9em;
+   }
+}
+@media (min-width: 600px) {
    .section-1 p {
       font-size: 50px;
       text-align: start;
       width: 70%;
       margin: auto;
    }
+   .falamat {
+      margin: 0px 10px;
+   }
 }
 
+@media only screen and (min-width: 768px) {
+   .falamat {
+      margin: 0px 30px;
+   }
+}
+@media only screen and (min-width: 1200px) {
+}
 a {
    text-decoration: none;
    color: currentColor;

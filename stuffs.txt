@@ -1,0 +1,2 @@
+ukuran gambar di slideshow/carousel
+height: 393 px width: 700 px
