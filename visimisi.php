@@ -66,16 +66,17 @@
    </header>
    <!-- ini nav -->
 
+   <div class="all">
+      <div class="bg-image d-flex flex-row vmm">
+         <div class="col-8 d-flex flex-column vm">
+            <h1>VISI</h1>
+            <p>Menjadi perusahaan yang berkembang dan bermanfaat untuk memenuhi kebutuhan klien atau mitra.</p>
+            <h1>MISI</h1>
+            <p>Produktif dalam membangun bisnis dan aset yang dimiliki secara terintegrasi guna memberikan manfaat dan pelayanan yang luas kepada klien atau mitra</p>
 
-   <div class="bg-image d-flex flex-row vmm">
-      <div class="col-8 d-flex flex-column vm">
-         <h1>VISI</h1>
-         <p>Menjadi perusahaan yang berkembang dan bermanfaat untuk memenuhi kebutuhan klien atau mitra.</p>
-         <h1>MISI</h1>
-         <p>Produktif dalam membangun bisnis dan aset yang dimiliki secara terintegrasi guna memberikan manfaat dan pelayanan yang luas kepada klien atau mitra</p>
-
+         </div>
       </div>
+      <?php include 'assets/footer.php'; ?>
    </div>
 
-   <?php include 'assets/footer.php'; ?>
    </div>

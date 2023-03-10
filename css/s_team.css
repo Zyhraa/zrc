@@ -7,3 +7,9 @@
    background-size: cover;
    background-repeat: no-repeat;
 }
+
+.all img {
+   width: 50vw;
+   min-width: 400px;
+   margin: auto;
+}
