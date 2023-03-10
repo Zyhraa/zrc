@@ -7,7 +7,7 @@
    <!-- ini nav -->
    <header>
       <div class="container-fluid">
-         <div class="navb-items d-none d-xl-flex">
+         <div class="navb-items d-xl-flex">
             <div class="item">
                <a href="home.php">Home</a>
             </div>
