@@ -134,6 +134,11 @@ header .mobile-toggler {
    width: 90%;
    text-align: center;
 } */
+footer {
+   position: absolute;
+   bottom: 0;
+   inset: auto 0 0;
+}
 .falamat p {
    margin: 0;
    padding: 0;

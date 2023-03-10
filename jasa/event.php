@@ -94,11 +94,10 @@
             </div>
          </div>
 
-         <div class="eventabout col-6 offset-3 pb-5 mb-5">
+         <div class="eventabout col-6 offset-3">
             <p>Kami menyediakan jasa profesional dalam penyelenggaraan berbagai macam acara formal maupun non-formal. Kami dapat memenuhi ekspektasi klien untuk tercapainya acara yang baik dan lancar dibantu dengan pengalaman kami di bidang event organizing yang sudah bekerja sama dengan beberapa perusahaan.</p>
          </div>
       </div>
 
-
-      <?php include '../assets/footer.php'; ?>
    </div>
+   <?php include '../assets/footer.php'; ?>
