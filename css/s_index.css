@@ -187,6 +187,10 @@ div > p {
    div > p {
       font-size: 3vw;
    }
+
+   .alamat {
+      margin: 0px 30px;
+   }
 }
 
 @media only screen and (min-width: 768px) {
@@ -208,6 +212,9 @@ div > p {
       transition: all 0.5s;
       position: relative;
       width: 170px;
+   }
+   .alamat {
+      margin: 0px 50px;
    }
 }
 
