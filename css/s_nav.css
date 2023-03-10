@@ -3,6 +3,10 @@
    padding: 0;
 }
 
+header {
+   position: absolute;
+}
+
 @media (max-width: 992px) {
    header .container-fluid {
       padding: 0 5%;
@@ -139,9 +143,8 @@ header .mobile-toggler {
    text-align: center;
 } */
 footer {
-   position: absolute;
-   bottom: 0;
-   inset: auto 0 0;
+   position: relative;
+   bottom: 0px;
 }
 
 .falamat p {

@@ -66,9 +66,9 @@
    </header>
    <!-- ini nav -->
 
-   <div>
+   <div class="all">
       <img src="assets/images/teamblock.png" style="width: 50vw; height: auto; margin: 5vh;">
+      <?php include 'assets/footer.php'; ?>
    </div>
 
-   <?php include 'assets/footer.php'; ?>
    </div>
