@@ -7,7 +7,7 @@
    <!-- ini nav -->
    <header>
       <div class="container-fluid">
-         <div class="navb-items d-none d-xl-flex">
+         <div class="navb-items d-xl-flex">
             <div class="item">
                <a href="../home.php">Home</a>
             </div>
@@ -32,7 +32,7 @@
                <div class="modal-content">
 
                   <div class="modal-header">
-                     <img src="assets/images/graylogo.png" alt="Logo">
+                     <img src="../assets/images/graylogo.png" alt="Logo">
                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
                   </div>
 
