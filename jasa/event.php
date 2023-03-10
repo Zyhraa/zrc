@@ -67,7 +67,7 @@
    <!-- ini nav -->
 
    <div class="all">
-      <div class="d-flex justify-content-center flex-column mt-5 tengah">
+      <div class="d-flex justify-content-center flex-column mt-5 pt-5 tengah">
          <h1 class="judulevent mt-5">Event Organizer</h1>
 
          <div class="my-5 d-flex justify-content-center">
