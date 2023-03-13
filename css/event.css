@@ -12,10 +12,6 @@
    text-align: center;
 }
 
-.carousel-item img {
-   width: auto;
-}
-
 .judulevent {
    font-family: "Playfair Display", serif;
    color: white;
@@ -35,10 +31,35 @@
 }
 
 @media only screen and (max-width: 600px) {
+   .carousel-item > img {
+      width: 20em;
+   }
+   .eventabout {
+      font-size: 1em;
+   }
 }
 @media only screen and (min-width: 600px) {
+   .carousel-item > img {
+      width: 25em;
+   }
+   .eventabout {
+      font-size: 1em;
+   }
 }
 @media only screen and (min-width: 768px) {
+   .carousel-item > img {
+      width: 55vw;
+   }
+   .eventabout {
+      font-size: 1.2em;
+      margin-bottom: 2rem;
+   }
 }
 @media only screen and (min-width: 1200px) {
+   .carousel-item > img {
+      width: 700px;
+   }
+   .eventabout {
+      font-size: 1.5em;
+   }
 }
