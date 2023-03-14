@@ -80,14 +80,14 @@
             <div class="hex hex1 hex4" style="background-image: url(assets/images/jasa1.png);">
                <div class="shadow">
                   <a href="jasa/event.php">
-                     <p class="juduljasa px-2 mx-4">Event Organizer</p>
+                     <p class="juduljasa px-2 mx-3">Event Organizer</p>
                      <div class="center">
                         <button class="btn">
-                           <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
-                              <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
-                              <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
                            </svg>
-                           <span>HOVER ME</span>
+                           <span>Learn More</span>
                         </button>
                      </div>
                   </a>
@@ -98,37 +98,85 @@
             <div class="hex hex3" style="background-image: url(assets/images/jasa2.png);">
                <div class="shadow"><a href="jasa/merch.php">
                      <p class="juduljasa px-2 mx-4">Merchandise</p>
-                     <p class="tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa3.png);">
                <div class="shadow"><a href="jasa/mobil.php">
                      <p class="juduljasa px-2 mx-4">Rental Mobil</p>
-                     <p class="tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa4.png);">
                <div class="shadow"><a href="jasa/hotel.php">
                      <p class="juduljasa px-2 mx-4">Hotel</p>
-                     <p class="tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa5.png);">
                <div class="shadow"><a href="jasa/pesawat.php">
                      <p class="juduljasa px-2 mx-4">Ticketing Pesawat</p>
-                     <p class="tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="hex hex1 hex2 hex3" style="background-image: url(assets/images/jasa6.png);">
                <div class="shadow"><a href="jasa/dana.php">
                      <p class="juduljasa px-2 mx-4">Aktifitas Manajemen Data</p>
-                     <p class="tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa7.png);">
                <div class="shadow"><a href="jasa/perdagangan.php">
                      <p class="juduljasa px-2 mx-4">Perdagangan Umum</p>
-                     <p class=" tomboljasa">Learn More</p>
+                     <div class="center">
+                        <button class="btn">
+                           <svg viewBox="0 0 150 40" class="border">
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
+                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
+                           </svg>
+                           <span>Learn More</span>
+                        </button>
+                     </div>
                   </a></div>
             </div>
             <div class="whyus mt-5 pt-5 mb-5 pb-5">
