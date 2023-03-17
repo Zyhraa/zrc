@@ -74,13 +74,34 @@
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active">
-                     <img src="../assets/images/event1.jpg" alt="...">
+                     <img src="../assets/images/merch1.png" alt="...">
                   </div>
                   <div class="carousel-item">
-                     <img src="../assets/images/event2new.png" alt="...">
+                     <img src="../assets/images/merch2.png" alt="...">
                   </div>
                   <div class="carousel-item">
-                     <img src="../assets/images/event3new.jpg" alt="...">
+                     <img src="../assets/images/merch3.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch4.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch5.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch6.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch7.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch8new.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch9.png" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="../assets/images/merch10.png" alt="...">
                   </div>
                </div>
                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
