@@ -79,11 +79,6 @@
                <div class="shadow">
                   <a href="jasa/event.php">
                      <p class="juduljasa px-2 mx-3">Event Organizer</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a>
                </div>
             </div>
@@ -92,61 +87,31 @@
             <div class="hex hex3" style="background-image: url(assets/images/jasamerch.png);">
                <div class="shadow"><a href="jasa/merch.php">
                      <p class="juduljasa px-2 mx-4">Merchandise</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa3.png);">
                <div class="shadow"><a href="jasa/mobil.php">
                      <p class="juduljasa px-2 mx-4">Rental Mobil</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa4.png);">
                <div class="shadow"><a href="jasa/hotel.php">
                      <p class="juduljasa px-2 mx-4">Hotel</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3" style="background-image: url(assets/images/jasa5.png);">
                <div class="shadow"><a href="jasa/pesawat.php">
                      <p class="juduljasa px-2 mx-4">Ticketing Pesawat</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="hex hex1 hex2 hex3" style="background-image: url(assets/images/jasa6.png);">
                <div class="shadow"><a href="jasa/dana.php">
                      <p class="juduljasa px-2 mx-4">Aktifitas Manajemen Data</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="hex hex2 hex3 hex4" style="background-image: url(assets/images/jasa7.png);">
                <div class="shadow"><a href="jasa/perdagangan.php">
                      <p class="juduljasa px-2 mx-4">Perdagangan Umum</p>
-                     <div class="center">
-                        <button class="btn">
-                           <span>Learn More</span>
-                        </button>
-                     </div>
                   </a></div>
             </div>
             <div class="whyus mt-5 pt-5 mb-5 pb-5">
