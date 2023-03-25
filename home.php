@@ -89,7 +89,7 @@
             </div>
 
 
-            <div class="hex hex3" style="background-image: url(assets/images/jasa2.png);">
+            <div class="hex hex3" style="background-image: url(assets/images/jasamerch.png);">
                <div class="shadow"><a href="jasa/merch.php">
                      <p class="juduljasa px-2 mx-4">Merchandise</p>
                      <div class="center">
