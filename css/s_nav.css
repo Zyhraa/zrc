@@ -163,6 +163,14 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
+   header {
+      position: relative;
+   }
+
+   .whyus h1 {
+      text-align: center;
+   }
+
    .fcenter2 {
       display: flex;
       flex-direction: column;
@@ -197,8 +205,7 @@ footer {
    }
 }
 
-@media only screen and (min-width: 1200px) {
-}
+@media only screen and (min-width: 1200px) {}
 
 a {
    text-decoration: none;
