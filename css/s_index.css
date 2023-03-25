@@ -3,6 +3,7 @@ foto background 9:19
 font-family: "IM Fell Great Primer SC", serif;
 font-family: "News Cycle", sans-serif; 400 + 700
 font-family: "Playfair Display", serif; 600 + 700 + 800 + 900
+font-family: 'DM Sans', sans-serif;
 
 @media only screen and (max-width: 600px) {}
 @media only screen and (min-width: 600px) {}
@@ -17,7 +18,7 @@ font-family: "Playfair Display", serif; 600 + 700 + 800 + 900
 }
 
 body {
-   background-image: url("../assets/images/splashh.png");
+   background-image: url('../assets/images/splashh.png');
    background-size: cover;
    background-repeat: no-repeat;
 }
@@ -41,14 +42,14 @@ body {
 }
 
 /* text zadde royal */
-div>h1 {
-   font-family: "Playfair Display", serif;
+div > h1 {
+   font-family: 'Playfair Display', serif;
    font-weight: 700;
    font-size: 4vw;
 }
 
-div>p {
-   font-family: "IM Fell Great Primer SC", serif;
+div > p {
+   font-family: 'IM Fell Great Primer SC', serif;
    font-weight: 300;
    font-size: 2vw;
 }
@@ -64,7 +65,7 @@ div>p {
 }
 
 .btn-three::before {
-   content: "";
+   content: '';
    position: absolute;
    top: 0;
    left: 0;
@@ -82,7 +83,7 @@ div>p {
 }
 
 .btn-three::after {
-   content: "";
+   content: '';
    position: absolute;
    top: 0;
    left: 0;
@@ -144,11 +145,11 @@ div>p {
       width: 130px;
    }
 
-   div>h1 {
+   div > h1 {
       font-size: 7vw;
    }
 
-   div>p {
+   div > p {
       font-size: 4vw;
    }
 
@@ -186,11 +187,11 @@ div>p {
       width: 150px;
    }
 
-   div>h1 {
+   div > h1 {
       font-size: 6vw;
    }
 
-   div>p {
+   div > p {
       font-size: 3vw;
    }
 
@@ -205,11 +206,11 @@ div>p {
       width: 20%;
    }
 
-   div>h1 {
+   div > h1 {
       font-size: 4vw;
    }
 
-   div>p {
+   div > p {
       font-size: 2vw;
    }
 

@@ -1,6 +1,5 @@
 .bg-image {
    background-color: rgb(0, 0, 0);
-   /* background-image: url(../assets/images/download.jpg); */
    width: 100%;
    max-height: auto;
    object-fit: cover;
@@ -8,18 +7,7 @@
    background-repeat: no-repeat;
 }
 
-/* 
-.img1 {
-   background-image: url("../assets/images/home1.png");
-}
-.img2 {
-   background-image: url("../assets/images/home2.png");
-}
-.img3 {
-   background-image: url("../assets/images/home3.png");
-} */
-
-.jasa>h1 {
+.jasa > h1 {
    font-family: 'Playfair Display', serif;
    font-size: 2.5vw;
    font-weight: 800;
@@ -53,16 +41,18 @@
    margin: 0 0.5vw;
 }
 
-.hex>.shadow {
+.hex > .shadow {
    background: rgb(0, 0, 0);
-   background: linear-gradient(0deg,
-         rgba(0, 0, 0, 1) 10%,
-         rgba(0, 0, 0, 0) 100%);
+   background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 1) 10%,
+      rgba(0, 0, 0, 0) 100%
+   );
    width: 100%;
    height: 100%;
 }
 
-.shadow>a {
+.shadow > a {
    text-decoration: none;
    width: 100%;
    height: 100%;
@@ -107,27 +97,6 @@
    position: absolute;
 }
 
-/* svg {
-   position: absolute;
-   left: 0;
-   width: 145px;
-   height: 40px;
-   top: 0;
-   fill: none;
-   stroke: #fff;
-   stroke-dasharray: 150 480;
-   stroke-dashoffset: 150;
-   transition: 1s ease-in-out;
-} */
-/* 
-.btn:hover {
-   transition: 1s ease-in-out;
-}
-
-.btn:hover svg {
-   stroke-dashoffset: -480;
-} */
-
 .btn span {
    color: white;
    font-family: 'News Cycle', sans-serif;
@@ -157,9 +126,16 @@
    align-items: center;
 }
 
+.ptDesc {
+   color: white;
+   font-family: 'DM Sans', sans-serif;
+   font-weight: 400;
+   font-size: 1.5rem;
+}
+
 .whydesc {
-   font-family: 'News Cycle', sans-serif;
-   font-weight: 700;
+   font-family: 'DM Sans', sans-serif;
+   font-weight: 400;
    font-size: 1.5rem;
    color: #d8ba55;
    text-align: center;
@@ -171,10 +147,7 @@
    }
 
    .ptDesc {
-      color: white;
-      font-family: 'News Cycle', sans-serif;
-      font-weight: 700;
-      font-size: 1.2rem;
+      font-size: 1rem;
    }
 
    .hexagon {
@@ -207,35 +180,26 @@
    }
 
    .juduljasa {
-      color: #d8ba55;
-      font-family: 'Playfair Display', serif;
       font-weight: 600;
-      font-size: 0.8rem;
+      font-size: 0.9rem;
       text-align: center;
    }
 
-   .jasa>h1 {
-      font-family: 'Playfair Display', serif;
+   .jasa > h1 {
       font-size: 1.5rem;
       font-weight: 800;
    }
 
    .whyus h1 {
-      font-family: 'Playfair Display', serif;
       font-size: 1.5rem;
       font-weight: 800;
-      color: white;
       display: flex;
       flex-direction: column;
       align-items: center;
    }
 
    .whydesc {
-      font-family: 'News Cycle', sans-serif;
-      font-weight: 700;
-      font-size: 1.3rem;
-      color: #d8ba55;
-      text-align: center;
+      font-size: 1rem;
    }
 }
 
@@ -245,12 +209,10 @@
    }
 
    .ptDesc {
-      color: white;
-      font-weight: 700;
       font-size: 1.3rem;
    }
 
-   .jasa>h1 {
+   .jasa > h1 {
       font-size: 1rem;
       font-weight: 800;
    }
@@ -262,16 +224,15 @@
 
    .juduljasa {
       font-weight: 800;
-      font-size: 0.5rem;
+      font-size: 1rem;
    }
 
    .whydesc {
-      font-weight: 700;
       font-size: 1.3rem;
    }
 }
 
-/* @media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
    .hexagon {
       width: 62vw;
       display: flex;
@@ -300,19 +261,7 @@
    .hex4 {
       margin-left: 16vw;
    }
-
-   .jasa>h1 {
-      font-size: 2rem;
-   }
-
-   .juduljasa {
-      font-size: 1.3rem;
-   }
-
-   .whyus h1 {
-      font-size: 2em;
-   }
-} */
+}
 
 @media only screen and (min-width: 768px) {
    .logoz {
@@ -320,12 +269,10 @@
    }
 
    .ptDesc {
-      color: white;
-      font-weight: 700;
       font-size: 1.5rem;
    }
 
-   .jasa>h1 {
+   .jasa > h1 {
       font-size: 2rem;
       font-weight: 800;
    }
@@ -341,14 +288,12 @@
    }
 
    .whydesc {
-      font-weight: 700;
       font-size: 1.5rem;
    }
 }
 
 @media only screen and (min-width: 1200px) {
    .ptDesc {
-      color: white;
       font-size: 1.8rem;
    }
 
@@ -356,7 +301,7 @@
       font-size: 1.1rem;
    }
 
-   .jasa>h1 {
+   .jasa > h1 {
       font-size: 2.2rem;
    }
 
@@ -370,12 +315,11 @@
       width: 300px;
    }
 
-   .shadow>a {
+   .shadow > a {
       height: 100%;
    }
 
    .ptDesc {
-      color: white;
       font-size: 1.5rem;
    }
 
@@ -383,7 +327,7 @@
       font-size: 1.2rem;
    }
 
-   .jasa>h1 {
+   .jasa > h1 {
       font-size: 2.5rem;
    }
 
