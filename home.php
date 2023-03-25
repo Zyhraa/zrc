@@ -68,7 +68,7 @@
 
 
    <div class="bg-image test">
-      <img src="assets/images/newhome.jpg" style="width: 100vw; height:100%">
+      <img src="assets/images/newhome1.png" style="width: 100vw; height:100%">
       <div class="text-center">
          <p class="ptDesc col-6 offset-3 my-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
@@ -81,10 +81,6 @@
                      <p class="juduljasa px-2 mx-3">Event Organizer</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -98,10 +94,6 @@
                      <p class="juduljasa px-2 mx-4">Merchandise</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -112,10 +104,6 @@
                      <p class="juduljasa px-2 mx-4">Rental Mobil</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -126,10 +114,6 @@
                      <p class="juduljasa px-2 mx-4">Hotel</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -140,10 +124,6 @@
                      <p class="juduljasa px-2 mx-4">Ticketing Pesawat</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -154,10 +134,6 @@
                      <p class="juduljasa px-2 mx-4">Aktifitas Manajemen Data</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
@@ -168,10 +144,6 @@
                      <p class="juduljasa px-2 mx-4">Perdagangan Umum</p>
                      <div class="center">
                         <button class="btn">
-                           <svg viewBox="0 0 150 40" class="border">
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="bg-line" />
-                              <polyline points="149,2 149,39 1,39 1,2 150,2" class="hl-line" />
-                           </svg>
                            <span>Learn More</span>
                         </button>
                      </div>
