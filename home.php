@@ -68,11 +68,9 @@
 
 
    <div class="bg-image test">
+      <img src="assets/images/newhome.jpg" style="width: 100vw; height:100%">
       <div class="text-center">
-         <div class="d-flex justify-content-center">
-            <img class="mb-3 pt-5 mt-5 logoz" src="assets/images/logogold.png">
-         </div>
-         <p class="ptDesc col-6 offset-3 mb-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
+         <p class="ptDesc col-6 offset-3 my-5">PT. Zadde Royal Crown, terletak di jakarta, merupakan perusahaan yang bergerak di bidang jasa dan pelayanan umum dengan solusi yang inovatif dan kreatif kepada klien kami dan selalu mengedepankan mutu serta kepercayaan demi kelangsungan bisnis yang harmonis dan berkelanjutan.</p>
       </div>
       <div class="jasa">
          <h1 class="mb-5 mt-5 pt-5">Our Services</h1>
