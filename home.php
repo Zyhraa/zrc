@@ -53,7 +53,6 @@
 
                   <div class="mobile-modal-footer">
                      <a target="_blank" href="https://wa.me/0811336951"><i class="fa-brands fa-whatsapp"></i></a>
-                     <a target="_blank" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
                      <a target="_blank" href="mailto:zadderoyalcrown@gmail.com"><i class="far fa-envelope"></i></a>
                      <a target="_blank" href="https://goo.gl/maps/qEYuiQUG6EHPAKC6A"><i class="fa-solid fa-map-location-dot"></i></a>
                   </div>
