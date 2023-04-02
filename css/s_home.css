@@ -1,10 +1,10 @@
 .bg-image {
-   background-color: rgb(0, 0, 0);
-   width: 100%;
-   max-height: auto;
-   object-fit: cover;
-   object-position: center;
-   background-repeat: no-repeat;
+   background-image: url(../assets/images/home.png);
+   /* 
+   max-height: auto; */
+   background-size: cover;
+   /* object-position: center;
+   background-repeat: no-repeat; */
 }
 
 .jasa > h1 {
